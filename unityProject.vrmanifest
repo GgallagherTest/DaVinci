@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.hackathon2019.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\adreuzea\\git\\hackathon2019_green\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Hackathon2019 [Testing]"
+        }
+      }
+    }
+  ]
+}

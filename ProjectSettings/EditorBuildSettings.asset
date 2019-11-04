@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Workshop.unity
+    guid: b608afc60f3ad2d4ba8cf88c9c11336e
+  - enabled: 1
+    path: Assets/Scenes/FlyingTask.unity
+    guid: 731c9043a1c35b84aa60b8f0c64acf1f
+  - enabled: 1
+    path: Assets/Scenes/TankTask.unity
+    guid: 9e21e2f16ee95d04d92cb7939ebc2e1a
+  m_configObjects: {}
